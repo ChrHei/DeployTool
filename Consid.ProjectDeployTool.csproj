@@ -25,7 +25,7 @@
     </UpgradeBackupLocation>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile />
-    <PublishUrl>D:\temp\Deploy\DeployTool\3.5\</PublishUrl>
+    <PublishUrl>D:\temp\Deploy\DeployTool\4.5\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
