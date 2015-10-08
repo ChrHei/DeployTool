@@ -13,9 +13,8 @@
     <StartupObject>
     </StartupObject>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <ManifestCertificateThumbprint>3092C4F446E599B1F936725B8C64E7FA370B94F7</ManifestCertificateThumbprint>
-    <ManifestKeyFile>
-    </ManifestKeyFile>
+    <ManifestCertificateThumbprint>DBD6E2DECCAB27D69AC1DCCDF7A87AE019CB7A44</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Consid.ProjectDeployTool_1_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
     <SignManifests>true</SignManifests>
     <FileUpgradeFlags>
@@ -25,7 +24,7 @@
     </UpgradeBackupLocation>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile />
-    <PublishUrl>D:\temp\Deploy\DeployTool\4.5\</PublishUrl>
+    <PublishUrl>D:\temp\Deploy\Consid.DeployTool\4.5\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -102,6 +101,7 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="app.config" />
+    <None Include="Consid.ProjectDeployTool_1_TemporaryKey.pfx" />
     <None Include="Consid.ProjectDeployTool_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
